@@ -1,5 +1,5 @@
 # Transport Road Network Algorithm
-#### assesses the design of a transportation network, 
+#### Assesses the design of a transportation network, 
 #### including the connectivity of the transportation network, the shortest distance between two 
 #### given intersections in the transportation network, and the shortest distance between all pairs of 
 #### intersections in the transportation network. 
